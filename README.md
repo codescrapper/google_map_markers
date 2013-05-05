@@ -21,7 +21,7 @@ Divide map into grids and then traverse the positions to put. Combine them if th
 */
 
 
-private void arrangeMarkers(float zoomlevel, ArrayList<MarkerOptions> markerOptionsList){
+	private void arrangeMarkers(float zoomlevel, ArrayList<MarkerOptions> markerOptionsList){
   		ArrayList<MarkerOptions> moList;
 		
 			moList = new ArrayList<MarkerOptions>();
